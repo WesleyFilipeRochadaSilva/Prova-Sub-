@@ -1,0 +1,11 @@
+questão 1
+os principais componentes são a interface da pagina principal, o repositorio de cidades, e a aba de dominio da aplicação, a pagina principal recebe as informações do usuario que então envia as informações para as funçoes da aba de dominio que então pergunta ao repositorio se as cidades desejadas estão presentes nele.
+
+
+
+
+
+
+
+Questão 2
+primeiro sera perguntado na interface a cidade que o usuario deseja, depois sera enviado pro repositorio de cidades para se saber se a cidade desejada ou ciades com nomes iguais ou parecidos estão nele, se estiverem então sera reenviada para a interface principal a lista de cidades que se adequam a aquela que foi solicitada pelo usuario.
